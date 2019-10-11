@@ -6,7 +6,7 @@ El nombre de la base de datos será VENTA_CURSO.
 
 ## Estructura y descripción de tablas
 Esta base de datos estará conformada por las siguientes tablas:
-- PERSONA: contiene los datos generales de toda persona, además especifica si es estudiante o empleado.
+- <strong>PERSONA:</strong> contiene los datos generales de toda persona, además especifica si es estudiante o empleado.
 - EMPLEADO: contiene la información necesaria del empleado.
 - DEPARTAMENTO: contiene toda la información de los departamentos en los que trabajan los empleados.
 - CURSO: contiene toda la información referente a los cursos que se ofertan.
