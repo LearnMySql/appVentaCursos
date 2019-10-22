@@ -8,12 +8,11 @@ El nombre de la base de datos será VENTA_CURSO.
 Esta base de datos estará conformada por las siguientes tablas:
 - <strong>PERSONA:</strong> contiene los datos generales de toda persona, además especifica si es estudiante o empleado.
 - <strong>EMPLEADO:</strong> contiene la información necesaria del empleado.
-- <strong>DEPARTAMENTO:</strong> contiene toda la información de los departamentos en los que trabajan los empleados.
+- <strong>DEPARTAMENTO:</strong> contiene toda la información de los departamentos en los que trabajan los empleados con los respectivos jefes por departamento.
 - <strong>CURSO:</strong> contiene toda la información referente a los cursos que se ofertan.
 - <strong>OFERTA:</strong> contiene las ofertas de cursos con su respectiva fecha de inicio y profesor. asignado. 
-- <strong>NIVEL_SUELDO:</strong> contiene los niveles o grados de sueldo que puede alcanzar el empleado de acuerdo a su productividad.
 - <strong>INSCRIPCION:</strong> contiene todas las inscripciones realizadas a los cursos ofertados y que son atendidos por los empleados del departamento de ventas.
-- <strong>HISTORICO:</strong> contiene la información histórica de los años trabajados de un empleado dentro de la empresa.
+- <strong>HISTORICO:</strong> contiene la información histórica de los años trabajados de un empleado y de un estudiante de los cursos que ha llevado en la empresa.
 
 ## Relaciones entre tablas
 Para establecer las relaciones debe tener en cuenta lo siguiente:
