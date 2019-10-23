@@ -73,9 +73,17 @@ VALUES
 
 -- Insertar registros en la tabla OFERTA
 -- ====================================================
-
+INSERT INTO OFERTA
+(CODCUR, FECOFER, FECINICCUROFER, IDEMP)
+VALUES
+('ERM', '', '', '15439876'),
+('GEN', '', '', '12547699'),
+('JAV', '', '', '15439876'),
+('OAU', '', '', '15634377'),
+('PLS', '', '', '15634377');
 
 show full columns in empleado;
+show full columns in oferta;
 select * from persona;
 select * from curso;
 select * from departamento;
