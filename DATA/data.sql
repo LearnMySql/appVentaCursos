@@ -71,6 +71,10 @@ VALUES
 ('45638743', '2001-10-25', 'VENDEDOR', 3250, 4, 'A'),
 ('45678744', '2003-10-15', 'VENDEDOR', 3250, 4, 'A');
 
+-- Insertar registros en la tabla OFERTA
+-- ====================================================
+
+
 show full columns in empleado;
 select * from persona;
 select * from curso;
