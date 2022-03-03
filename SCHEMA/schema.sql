@@ -7,6 +7,7 @@ DEFAULT CHARACTER SET utf8;
 
 -- Poner en uso la base de daros
 USE appVentaCurso;
+-- demo desde la nube 
 
 -- ============================================
 -- Crear tablas con sus respectivos campos
